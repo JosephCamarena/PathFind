@@ -1,5 +1,5 @@
 # PathFind
-Practice with command-line input, reading from a file, an dynamic memory allocation.
+Practice with command-line input, reading from a file, and dynamic memory allocation in C.
 
 # Problem Statement
 Read a set of topographic (land elevation) data from a 2D array and write a function to compute the path(s) through the mountains. For this project, the program is required to read input from the command-line into our main() function. Data passed into the main() comes through as char* argv[].
